@@ -1,3 +1,6 @@
+# copas aja semuanya
+# aman kok
+
 class Node:
     def __init__(self, data, parent):
         self._data = data
